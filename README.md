@@ -17,6 +17,10 @@ Source: Andrej Karpathy's YouTube Banner (love it)
 All of this is implemented in a **single Jupyter notebook**:  
 `gpt-from-scratch.ipynb`
 
+## Dataset Used
+HuggingFace: [roneneldan/TinyStories](https://huggingface.co/datasets/roneneldan/TinyStories)
+![image](https://github.com/user-attachments/assets/f216421d-5fea-4e01-beb4-3e8a936b7ab1)
+
 ---
 
 ## Files
